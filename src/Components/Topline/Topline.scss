@@ -1,0 +1,18 @@
+.Topline{
+    padding: 21px 80px;
+    display: flex;
+    justify-content: space-between;
+    &-circle{
+        width: 59px;
+        height: 59px;
+        background-color: #F5F5F5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        img {
+           height: 27px;
+           height: 27px; 
+        }
+    }
+}
