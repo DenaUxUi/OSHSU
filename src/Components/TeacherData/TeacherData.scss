@@ -2,4 +2,14 @@
     background: white;
     border-radius: 20px;
     border: 1px #248B00 solid;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 18px 61px;
+    &__Data{
+        margin-top: 32px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 77px;
+    }
 }
