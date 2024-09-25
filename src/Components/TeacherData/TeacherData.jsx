@@ -21,7 +21,7 @@ function TeacherData() {
                         <p className='Roboto-data-desc'>Не указано</p>
                     </div>
                     <div className='Teacher__Data__Details'>
-                        <p className='Roboto-data'>Курс</p>
+                        <p className='Roboto-data'>Курсы</p>
                         <p className='Roboto-data-desc'>Не указано</p>
                     </div>
                     <div className='Teacher__Data__Details'>
