@@ -4,7 +4,7 @@ function App() {
   return (
     <>
     <HomePage />
-    <Route to="HomePage"/>
+
     </>
   )
 }
